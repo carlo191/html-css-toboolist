@@ -14,3 +14,28 @@
     width: 1000px;
     max-width: 100%;
   }
+
+  /* # HEADER */
+
+  .logo{
+    padding-left:  20px;
+    vertical-align: middle;
+
+
+  }
+
+  .title{
+    display: inline;
+    vertical-align: middle;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: arial;
+    
+
+
+  }
+
+  .upper-header{
+    height: 100px;
+    margin: 0px;
+  }
